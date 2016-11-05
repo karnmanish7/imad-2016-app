@@ -1,8 +1,13 @@
-body {
+/*body {
     background-image:url("im1.jpg");
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
+}*/
+
+body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
 }
 
 .center {
