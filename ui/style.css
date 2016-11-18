@@ -9,6 +9,7 @@ body {
     top: 0; 
     left: 0; 
   opacity: 0.6;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
      min-height: 100%;
      min-width: 1024px;
   
