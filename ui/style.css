@@ -1,5 +1,6 @@
 body {
     background-image:url("/ui/images/bgimg1.jpg");
+    background-size: cover;
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
