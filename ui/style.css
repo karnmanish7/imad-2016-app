@@ -41,7 +41,7 @@ body {
 }
 
 .read-more {
-  /*background-color: Crimson;
+  background-color: Crimson;
   border-radius: 5px;  
   color: white;
   display: block;
@@ -51,12 +51,9 @@ body {
   text-decoration: none;  
   font-family: Georgia, serif;
   font-style: italic;
-  width: 6em;*/
+  width: 6em;
   
-  color: #d7ceb2;
-	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
-	font: 80px 'BazarMedium';
-	letter-spacing: 10px;
+  
   
 }
 
