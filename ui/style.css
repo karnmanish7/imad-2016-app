@@ -7,6 +7,10 @@ body {
     height: 100%;
     top: 0; 
   left: 0; 
+  
+  min-height: 100%;
+  min-width: 1024px;
+  
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
