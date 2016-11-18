@@ -19,8 +19,8 @@ body {
 
 .center {
     text-align:center;
-    
- font-family: Verdana;
+    font-family: Georgia, serif;
+     font-style: italic;
     font-size: 11px;
     color: #555555;
     
